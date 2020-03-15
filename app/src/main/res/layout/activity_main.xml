@@ -24,7 +24,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button25"
+                android:id="@+id/btac"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -34,7 +34,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button31"
+                android:id="@+id/btsen"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -44,7 +44,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button32"
+                android:id="@+id/btcos"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -54,7 +54,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button41"
+                android:id="@+id/bttan"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -70,7 +70,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button26"
+                android:id="@+id/bt7"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -80,7 +80,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button33"
+                android:id="@+id/bt8"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -90,7 +90,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button34"
+                android:id="@+id/bt9"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -100,7 +100,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button42"
+                android:id="@+id/btdiv"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -116,7 +116,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button27"
+                android:id="@+id/bt4"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -126,7 +126,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button35"
+                android:id="@+id/bt5"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -136,7 +136,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button36"
+                android:id="@+id/bt6"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -146,7 +146,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button43"
+                android:id="@+id/btmul"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -162,7 +162,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button28"
+                android:id="@+id/bt1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -172,7 +172,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button37"
+                android:id="@+id/bt2"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -182,7 +182,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button38"
+                android:id="@+id/bt3"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -192,7 +192,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button44"
+                android:id="@+id/btsub"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -208,7 +208,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button29"
+                android:id="@+id/bt0"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -218,7 +218,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button39"
+                android:id="@+id/btp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -228,7 +228,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button40"
+                android:id="@+id/btigu"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -238,7 +238,7 @@
                 android:textSize="18sp" />
 
             <Button
-                android:id="@+id/button45"
+                android:id="@+id/btsom"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
