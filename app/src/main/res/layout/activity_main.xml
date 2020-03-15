@@ -7,11 +7,12 @@
     tools:context=".MainActivity">
 
     <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <TableRow
             android:layout_width="match_parent"
@@ -20,21 +21,21 @@
             <Button
                 android:id="@+id/button25"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button31"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button32"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
         </TableRow>
@@ -46,21 +47,21 @@
             <Button
                 android:id="@+id/button26"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button33"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button34"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
         </TableRow>
@@ -72,21 +73,21 @@
             <Button
                 android:id="@+id/button27"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button35"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button36"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
         </TableRow>
@@ -98,7 +99,7 @@
             <Button
                 android:id="@+id/button28"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
@@ -112,7 +113,7 @@
             <Button
                 android:id="@+id/button38"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
         </TableRow>
@@ -124,21 +125,21 @@
             <Button
                 android:id="@+id/button29"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button39"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/button40"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="Button" />
         </TableRow>
@@ -150,7 +151,7 @@
             <Button
                 android:id="@+id/button30"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="3"
                 android:text="Button" />
         </TableRow>
