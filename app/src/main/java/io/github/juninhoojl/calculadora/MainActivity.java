@@ -150,7 +150,6 @@ public class MainActivity extends AppCompatActivity {
             tela.setText("ERROR"); // Limpa mostrador
 
         }
-
         tela.setText(""); // Limpa mostrador
         ope=4;
     }
@@ -228,7 +227,7 @@ public class MainActivity extends AppCompatActivity {
         }else if(ope==3){ // Mult
             res=op1*op2;
         }else if(ope==4){ // Div
-            if(op2==0){
+            if(op2==0.0 || op2==0){
                 tela.setText("ERROR");
             }else{
                 res=op1/op2;
