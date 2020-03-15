@@ -21,5 +21,7 @@
     <string name="sbttan">tan</string>
     <string name="sbtigu">=</string>
     <string name="textres">0</string>
+    <string name="erronum">ERROR</string>
+
 
 </resources>
