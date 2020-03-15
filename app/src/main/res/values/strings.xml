@@ -20,5 +20,6 @@
     <string name="sbtcos">cos</string>
     <string name="sbttan">tan</string>
     <string name="sbtigu">=</string>
+    <string name="textres">0</string>
 
 </resources>

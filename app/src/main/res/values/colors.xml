@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="cback">#242424</color>
+    <color name="cbtnormal">#484749</color>
+    <color name="cbtesp1">#FF7043</color>
+    <color name="cbtesp2">#EE7950</color>
+    <color name="cbtntext">#FFFFFF</color>
+
 </resources>
