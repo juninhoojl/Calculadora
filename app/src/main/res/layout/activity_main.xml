@@ -4,173 +4,227 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#242424"
     tools:context=".MainActivity">
 
     <TableLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="404dp"
+        android:layout_height="379dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="3dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_weight="1">
 
             <Button
                 android:id="@+id/button25"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbtoac" />
+                android:backgroundTint="#F44336"
+                android:text="@string/sbtoac"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button31"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbtsen" />
+                android:backgroundTint="#F44336"
+                android:text="@string/sbtsen"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button32"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbtcos" />
+                android:backgroundTint="#F44336"
+                android:text="@string/sbtcos"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button41"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sbttan" />
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:backgroundTint="#F44336"
+                android:text="@string/sbttan"
+                android:textColor="#FFFFFF" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_weight="1">
 
             <Button
                 android:id="@+id/button26"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt7" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt7"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button33"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt8" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt8"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button34"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt9" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt9"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button42"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sbtdiv" />
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:backgroundTint="#484749"
+                android:text="@string/sbtdiv"
+                android:textColor="#FFFFFF" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_weight="1">
 
             <Button
                 android:id="@+id/button27"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt4" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt4"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button35"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt5" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt5"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button36"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt6" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt6"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button43"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sbt1mul" />
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:backgroundTint="#484749"
+                android:text="@string/sbt1mul"
+                android:textColor="#FFFFFF" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_weight="1">
 
             <Button
                 android:id="@+id/button28"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt1" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt1"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button37"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt2" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt2"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button38"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt3" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt3"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button44"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sbt1sub" />
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:backgroundTint="#484749"
+                android:text="@string/sbt1sub"
+                android:textColor="#FFFFFF" />
         </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_weight="1">
 
             <Button
                 android:id="@+id/button29"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbt0" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbt0"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button39"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbtp" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbtp"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button40"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/sbtigu" />
+                android:backgroundTint="#484749"
+                android:text="@string/sbtigu"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/button45"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sbtsom" />
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:backgroundTint="#484749"
+                android:text="@string/sbtsom"
+                android:textColor="#FFFFFF" />
         </TableRow>
 
     </TableLayout>
