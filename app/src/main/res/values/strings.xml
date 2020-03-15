@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="sbt0">0</string>
+    <string name="sbt1">1</string>
+    <string name="sbt2">2</string>
+    <string name="sbt3">3</string>
+    <string name="sbt4">4</string>
+    <string name="sbt5">5</string>
+    <string name="sbt6">6</string>
+    <string name="sbt7">7</string>
+    <string name="sbt8">8</string>
+    <string name="sbt9">9</string>
+    <string name="sbtp">.</string>
+    <string name="sbtoac">AC</string>
+    <string name="sbtsom">+</string>
+    <string name="sbt1sub">-</string>
+    <string name="sbt1mul">*</string>
+    <string name="sbtdiv">/</string>
+    <string name="sbtsen">sen</string>
+    <string name="sbtcos">cos</string>
+    <string name="sbttan">tan</string>
+    <string name="sbtigu">=</string>
+
 </resources>
